@@ -23,6 +23,10 @@ html {
         -webkit-font-smoothing: antialiased; 
     }
 
+    body, input, textarea, select, button {
+        font: 400 1rem "Roboto", sans-serf;
+    }
+
     #root {
         max-width: 920px;
         margin: 0 auto;
